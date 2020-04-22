@@ -1,6 +1,5 @@
 //------------------------------------------------------------------------------
-// Enrique Davalos -+- edavalos -+- 12B -+- 4/22/19 -+- Prints the # of
-// solutions to the n-queens problem. Verbose prints each solution
+// Author: Enrique Davalos (@Mtxrii)
 //------------------------------------------------------------------------------
 
 public class Queens {
